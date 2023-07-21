@@ -3,7 +3,7 @@
 
 /**
  * _isdigit - Checks for digit zero through nine
- * @int c: The digit to be checked
+ * @c: The digit to be checked
  * Return: Returns 1 if c is a digit and 0 otherwise
  */
 
