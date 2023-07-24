@@ -1,4 +1,4 @@
-#include "main_h"
+#include "main.h"
 
 /**
  * reset_to_98 - updates value of a parameter
